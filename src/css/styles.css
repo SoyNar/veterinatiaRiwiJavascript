@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('nomalize.css');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+*{
+    font-family: "Ubuntu Sans Mono", monospace;
+}
+
+/* .header button {
+    background-color: var(--riwi-azul-claro);
+    border: none;
+    border-radius: 5px;
+    color: var(--riwi-blanco);
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px 20px;
+}
+.header h1{
+    text-transform: capitalize;
+} */
+
+main{
+    margin-top: 7em;
+}
+.card-img-top{
+    object-fit: cover;
+    
+}
+.one{
+    cursor: pointer;
+}
+html{
+    scroll-behavior: smooth;
+}
+/* #listar{
+    display: none;
+} */
+
